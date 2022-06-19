@@ -1,0 +1,39 @@
+{
+  "name": "anoitos",
+  "version": "0.0.0-alpha-0.0.0",
+  "description": "A stupid Discord application for stupid purposes.",
+  "homepage": "https://jannatinnaim.com/Anoitos",
+  "readme": "README.md",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main"
+  },
+  "author": {
+    "name": "Jannatin Naim",
+    "email": "contact.jannatinnaim@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JannatinNaim/Anoitos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JannatinNaim/Anoitos/issues",
+    "email": "contact.jannatinnaim@gmail.com"
+  },
+  "keywords": [
+    "anoitos"
+  ],
+  "license": "GPL-3.0",
+  "engines": {
+    "node": ">=16.9.0",
+    "npm": ">=7.21.1"
+  },
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "prettier": "^2.7.1"
+  }
+}

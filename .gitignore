@@ -1,0 +1,13 @@
+# Mac
+.DS_Store
+.Trash
+
+# Editors
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# Environment
+.env
